@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: bd16f1d9a4009d0429da9e25b6ef4c58
+  - enabled: 1
+    path: Assets/Scenes/loading.unity
+    guid: 7820ca28ebecf0145a1498a838af10f5
+  - enabled: 1
+    path: Assets/Scenes/mars.unity
+    guid: 11eef47fc7fb1a3489cb4ac27d55ba6b
+  - enabled: 1
+    path: Assets/Scenes/afterMars.unity
+    guid: 9a1bfc1c2f5d0084cbdb6273a45716d1
+  - enabled: 1
+    path: Assets/Scenes/Asteroid1.unity
+    guid: d6fe93db30227184e850a54a54d5000f
+  - enabled: 1
+    path: Assets/Scenes/afterasteroid1.unity
+    guid: 5001e1ea6c30f044382cb48d09c3b9ec
+  - enabled: 1
+    path: Assets/Scenes/europa.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/europatotitan.unity
+    guid: 77ca4978311f9544b94b6ae86aa10747
+  - enabled: 1
+    path: Assets/Scenes/titan.unity
+    guid: 4c86ba33952b0454a9b0ee0b90b78c5b
+  - enabled: 1
+    path: Assets/Scenes/Asteroid2.unity
+    guid: 57fc48c787a0f434eb47f8c28b5936e3
+  - enabled: 1
+    path: Assets/Scenes/pluto.unity
+    guid: a168ca365d25ec04a926fff29b020fac
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 69dd89a4a55332a4383f12fcd1e692fd,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b822d2891d207e349a3324163bbe40cc,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 20ba47560a7b7654e8d21b0ec476d5b9,
+      type: 2}
