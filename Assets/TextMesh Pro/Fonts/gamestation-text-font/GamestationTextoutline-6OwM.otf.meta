@@ -1,0 +1,34 @@
+fileFormatVersion: 2
+guid: 4df6525757a2cf141972229976b262e3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Gamestation
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c4de36d74baead949b89b204dbbc6f05, type: 3}
+  - {fileID: 12800000, guid: 9880013b935d5dd4d89d5b6b554e718b, type: 3}
+  - {fileID: 12800000, guid: 6a4d896274235824cb8635d3b07bff7f, type: 3}
+  - {fileID: 12800000, guid: 5a6e7b81c80aee448b5b42e154846474, type: 3}
+  - {fileID: 12800000, guid: a2e69f42b351bb64c887a8b872203240, type: 3}
+  - {fileID: 12800000, guid: 0349157748aec37469110b0b0dec7d02, type: 3}
+  - {fileID: 12800000, guid: 1b581a81cd953f648bbbba282e932888, type: 3}
+  - {fileID: 12800000, guid: cc5db10eda3921243a1649c0059b410d, type: 3}
+  - {fileID: 12800000, guid: 1c80e582685a7914e98cb27bab918997, type: 3}
+  - {fileID: 12800000, guid: c82420527540b4945bfc606b912c5c8a, type: 3}
+  - {fileID: 12800000, guid: 6887eebf0e5b35d48b68032409045b79, type: 3}
+  - {fileID: 12800000, guid: b8f68ac98b81e594b9c3ca937635dca6, type: 3}
+  - {fileID: 12800000, guid: 9c83a013bcf9bf24d98ab24c76200337, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
